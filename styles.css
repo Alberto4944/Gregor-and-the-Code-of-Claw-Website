@@ -68,8 +68,8 @@ li a:hover{
     width: 65%;
 }
 
-/* about_title */
-#about_title{
+/* titles */
+.title{
     padding-left: 40px;
     padding-top: 30px;
     font-size: 40px;
@@ -82,7 +82,6 @@ li a:hover{
 
 img{
     height: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
-
-
-
